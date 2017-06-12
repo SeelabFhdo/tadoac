@@ -21,9 +21,10 @@ Chrome developer tools. Look for a call looking like this:
 
 In this case `1234` is your home ID
 
-## example
+## Example
 
-`public class Example {
+```java
+public class Example {
 
     public static void main (String[] args) {
         try {
@@ -44,4 +45,7 @@ In this case `1234` is your home ID
             e.printStackTrace();
         }
     }
-}`
+}
+```
+
+
