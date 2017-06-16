@@ -25,7 +25,6 @@ public class Example {
             s.setFanSpeed(TadoACFanSpeed.MIDDLE);
             ac.setSetting(1234, 1, s);
 
-
         } catch (IOException e) {
             e.printStackTrace();
         }
